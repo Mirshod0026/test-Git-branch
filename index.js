@@ -1,3 +1,7 @@
 function createUser(){
+
+}
+
+function createProduct(){
     
 }
